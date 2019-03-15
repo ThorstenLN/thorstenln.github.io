@@ -1,0 +1,13 @@
+body{
+  margin: 0px;
+}
+
+.pictext {
+  display: flex;
+  flex-grow: wrap;
+  flex-direction: row;
+}
+.pictext img{
+  float: left;
+  margin: 5px;
+}
